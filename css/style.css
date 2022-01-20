@@ -15,5 +15,7 @@ body{
     grid-template-columns: 1fr 120px minmax(300px, 800px) 1fr;
 }
 .menu{
-    grid-
+    grid-column:3 / 5;
+    margin: 2rem 0;
+    background: #fb5;
 }
