@@ -2,7 +2,7 @@ const img = document.querySelectorAll('img');
 console.log(img);
 
 
-const imagensAnimais = document.querySelectorAll.querySelectorAll('img[src^="imagem"]');
+const imagensAnimais = document.querySelectorAll('img[src^="imagem"]');
 console.log(imagensAnimais);
 
 const linkInterno = document.querySelectorAll('[href^="#"]');
