@@ -36,3 +36,6 @@ const height = listaAnimais.scrollHeight;
 const animaisTop = listaAnimais.offsetTop;
 console.log(animaisTop);
 const h2left = primeiroh2.offsetLeft;
+Console.log(h2left);
+
+
